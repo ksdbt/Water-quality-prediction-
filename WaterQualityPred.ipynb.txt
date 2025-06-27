@@ -824,7 +824,7 @@
        "      <th>NO2</th>\n",
        "      <th>SO4</th>\n",
        "      <th>PO4</th>\n",
-       "      <th>CL</th>\n",
+       "      <th>Cl</th>\n",
        "    </tr>\n",
        "  </thead>\n",
        "  <tbody>\n",
